@@ -1,0 +1,14 @@
+current directory: /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.0.0/gems/json-1.8.6/ext/json
+/usr/local/rvm/rubies/ruby-2.0.0-p648/bin/ruby -r ./siteconf20180702-5786-16mtzho.rb extconf.rb
+creating Makefile
+
+current directory: /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.0.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.0.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.0.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
+installing default libraries
